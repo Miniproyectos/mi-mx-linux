@@ -1,0 +1,45 @@
+
+
+
+##Debian 12 bookworm version
+
+deb http://deb.debian.org/debian/ bookworm non-free-firmware non-free contrib main 
+deb-src http://deb.debian.org/debian/ bookworm non-free-firmware non-free contrib main 
+
+deb http://deb.debian.org/debian-security/ bookworm-security non-free-firmware non-free contrib main 
+deb-src http://deb.debian.org/debian-security/ bookworm-security non-free-firmware non-free contrib main 
+
+deb http://deb.debian.org/debian/ bookworm-updates non-free-firmware non-free contrib main 
+deb-src http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware  
+
+deb https://deb.debian.org/debian/ bookworm-proposed-updates contrib main non-free non-free-firmware
+deb-src https://deb.debian.org/debian/ bookworm-proposed-updates contrib main non-free non-free-firmware
+
+
+
+ 
+
+#Debian testing repository
+
+# deb http://deb.debian.org/debian/ bookworm-backports main contrib non-free non-free-firmware   
+# deb-src http://deb.debian.org/debian/ bookworm-backports main contrib non-free non-free-firmware   
+
+
+
+
+
+
+#Debian 13 trixie version
+
+#deb http://deb.debian.org/debian/ trixie non-free-firmware non-free contrib main 
+#deb-src http://deb.debian.org/debian/ trixie non-free-firmware non-free contrib main 
+
+#deb http://deb.debian.org/debian-security/ trixie-security non-free-firmware non-free contrib main 
+#deb-src http://deb.debian.org/debian-security/ trixie-security non-free-firmware non-free contrib main 
+
+#deb http://deb.debian.org/debian/ trixie-updates non-free-firmware non-free contrib main 
+#deb-src http://deb.debian.org/debian/ trixie-updates main contrib non-free non-free-firmware  
+
+#deb https://deb.debian.org/debian/ trixie-proposed-updates contrib main non-free non-free-firmware
+#deb-src https://deb.debian.org/debian/ trixie-proposed-updates contrib main non-free non-free-firmware
+

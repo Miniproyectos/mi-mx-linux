@@ -3,7 +3,4 @@
 Se realizaron los siguientes cambios: 
 
 Eliminar programas que no uso. 
-Eliminación de temas de:
--Conky
--Iconos
--Carpetas
+Eliminación de temas de Conky, Iconos, Carpetas
